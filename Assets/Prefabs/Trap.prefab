@@ -67,7 +67,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18105f209ea4b2a43a081303d2214657, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objName: Trap
+  objName: Trampa
   damage: 10
 --- !u!1 &3802043261156238318
 GameObject:
